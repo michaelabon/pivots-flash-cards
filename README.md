@@ -3,7 +3,11 @@
 Learn your fellow Pivots' names with ease
 using [Anki][] as your flash card software
 and the [Pivots][] site as your source.
- 
+
+# No spammers, please
+
+Please honor the original access controls and not share exported decks with anyone who does not have access themselves (so we're not precompiling a recruiting list for spammers or whatever).
+
 # Why?
 
 When I started at Pivotal Labs, 
