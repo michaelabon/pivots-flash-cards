@@ -12,7 +12,7 @@ This tool does not grant any additional access. You need to be able to authentic
 
 To Pivots:
 
-Please honor the original access controls and not share exported decks with anyone who does not have access themselves (so we're not precompiling a recruiting list for spammers or whatever).
+Please honour the original access controls and not share exported decks with anyone who does not have access themselves (so we're not precompiling a recruiting list for spammers or whatever).
 
 # Why?
 
